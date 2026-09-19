@@ -20,4 +20,4 @@ Make sure you have the following libraries installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/NihatBabayev/recommender.git
+git clone https://github.com/muradbaghirli/recommender.git
